@@ -1,18 +1,7 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+The Ontario Top 6 Calculator is a simple tool written in Java to calculate the top 6 average that universities will likely use to consider your application.
+## Important Note
+This project is still under development. If you have any concerns, please contact DonYall#0567 on Discord.
+## Requirements
+This application requires Java 8 or higher.
+## Errors/Feature Requests
+Please contact DonYall#0567 on Discord.
